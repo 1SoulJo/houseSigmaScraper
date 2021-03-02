@@ -5,7 +5,7 @@
 ### Pre-requisite
 
 * Update the coordinates in req_data.py as desired
-* lat1/lon1 and lat2/lon2 corresponds to coordinates of top-right vertex and bottom-left vertex
+* lat1/lon1 and lat2/lon2 corresponds to the coordinates of top-right vertex and bottom-left vertex
 
 ### Run collect_ids.py
 
